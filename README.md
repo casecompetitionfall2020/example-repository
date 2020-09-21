@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Team 0 Project Page
 
 You can use the [editor on GitHub](https://github.com/casecompetitionfall2020/example-repository/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
